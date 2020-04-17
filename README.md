@@ -69,3 +69,9 @@
 10. Stripe
 - react-stripe-checkout
 - Note: Testing cards https://stripe.com/docs/testing#cards
+
+11. Heroku
+- Deploying
+- Integration with GitHub
+- Buildpack
+
