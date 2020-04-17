@@ -20,6 +20,7 @@
 - mapStateToProps
 - mapDispatchToProps
 - Memoization
+- Redux Persist
 
 3. Reselect
 - selectors
