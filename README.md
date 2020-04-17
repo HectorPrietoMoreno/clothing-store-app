@@ -65,3 +65,7 @@
 - Link
 - Redirect
 - withRouter
+
+10. Stripe
+- react-stripe-checkout
+- Note: Testing cards https://stripe.com/docs/testing#cards
