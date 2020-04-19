@@ -57,6 +57,7 @@
 - Sign out
 - Storage: Firestore
 - Unsubscribe
+- batch
 
 9. React Router
 - Switch
