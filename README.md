@@ -77,6 +77,9 @@
 
 12. Styles-components
 - BEM
+- Tradeoffs
+- as attribute
+- prop in styles
 
 
 
