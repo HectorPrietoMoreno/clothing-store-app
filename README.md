@@ -75,3 +75,15 @@
 - Integration with GitHub
 - Buildpack
 
+12. Styles-components
+- BEM
+
+
+
+# Heroku deployment
+
+URL: https://hector-prieto-clothing-store.herokuapp.com
+
+Steps to deploy:
+- Git: commit and push to master changes
+- git push heroku master
