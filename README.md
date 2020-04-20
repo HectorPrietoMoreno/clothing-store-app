@@ -26,6 +26,8 @@
 - Promise Pattern
 - Observer Pattern
 - Redux thunk
+- compose: composing multiple HOCs
+- Container Pattern
 
 3. Reselect
 - selectors
