@@ -22,6 +22,10 @@
 - mapDispatchToProps
 - Memoization
 - Redux Persist
+- Async Redux
+- Promise Pattern
+- Observer Pattern
+- Redux thunk
 
 3. Reselect
 - selectors
