@@ -11,6 +11,7 @@
 - React Events. Event binding
 - Forms
 - SVG management
+- Higher Orden Components
 
 2. Redux
 - Store
@@ -58,6 +59,7 @@
 - Storage: Firestore
 - Unsubscribe
 - batch
+- fetch from store
 
 9. React Router
 - Switch
