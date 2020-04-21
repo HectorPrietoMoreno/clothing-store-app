@@ -95,6 +95,9 @@
 - take()
 - takeEvery()
 - takeLatest()
+- put()
+- delay()
+- call()
 
 
 
