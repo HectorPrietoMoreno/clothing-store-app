@@ -53,6 +53,7 @@
 - Filter
 - Spreading operator
 - Async await. Promises
+- Generators
 
 7. Github
 - GitHub Pages
@@ -89,6 +90,11 @@
 - Tradeoffs
 - as attribute
 - prop in styles
+
+13. Redux-Saga
+- take()
+- takeEvery()
+- takeLatest()
 
 
 
