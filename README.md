@@ -12,6 +12,15 @@
 - Forms
 - SVG management
 - Higher Orden Components
+- React Hooks
+- useState
+- useEffect
+- Custom Hooks
+- useReducer
+- useContext
+- useMemo
+- useCallback
+- Hook rules
 
 2. Redux
 - Store
