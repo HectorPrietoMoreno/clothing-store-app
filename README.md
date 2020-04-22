@@ -108,6 +108,15 @@
 - delay()
 - call()
 
+14. NodeJS
+- Express
+- cors
+- body parser
+- path
+
+15. Axios
+- Fech Data
+
 
 
 # Heroku deployment
