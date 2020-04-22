@@ -125,4 +125,10 @@ URL: https://hector-prieto-clothing-store.herokuapp.com
 
 Steps to deploy:
 - Git: commit and push to master changes
+- heroku login
 - git push heroku master
+
+- Useful commands:
+    - heroku login
+    - heroku apps
+    - heroku buildpacks
