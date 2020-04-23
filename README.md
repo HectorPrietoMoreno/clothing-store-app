@@ -21,6 +21,7 @@
 - useMemo
 - useCallback
 - Hook rules
+- Context API
 
 2. Redux
 - Store
