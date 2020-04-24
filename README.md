@@ -28,6 +28,7 @@
 - React Performance
 - Suspense
 - Error boundaries
+- React Memo
 
 2. Redux
 - Store
