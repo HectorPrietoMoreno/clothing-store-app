@@ -132,6 +132,7 @@
 - Service Workers
 - HTTPS
 - Manifest.json
+- PWA compliance
 
 
 
