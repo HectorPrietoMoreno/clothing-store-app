@@ -29,6 +29,7 @@
 - Suspense
 - Error boundaries
 - React Memo
+- React Profiler
 
 2. Redux
 - Store
