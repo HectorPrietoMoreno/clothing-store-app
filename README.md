@@ -72,6 +72,7 @@
 - Async await. Promises
 - Generators
 - MediaQueries
+- Gzipping and compression
 
 7. Github
 - GitHub Pages
