@@ -15,6 +15,7 @@
 - React Hooks
 - useState
 - useEffect
+- useCallback
 - Custom Hooks
 - useReducer
 - useContext
@@ -22,6 +23,10 @@
 - useCallback
 - Hook rules
 - Context API
+- React Lazy
+- PureComponent
+- React Performance
+- Suspense
 
 2. Redux
 - Store
@@ -64,6 +69,7 @@
 - Spreading operator
 - Async await. Promises
 - Generators
+- MediaQueries
 
 7. Github
 - GitHub Pages
