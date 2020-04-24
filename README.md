@@ -27,6 +27,7 @@
 - PureComponent
 - React Performance
 - Suspense
+- Error boundaries
 
 2. Redux
 - Store
