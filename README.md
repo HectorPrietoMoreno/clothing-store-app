@@ -128,6 +128,11 @@
 15. Axios
 - Fech Data
 
+16. Progressive Web App
+- Service Workers
+- HTTPS
+- Manifest.json
+
 
 
 # Heroku deployment
