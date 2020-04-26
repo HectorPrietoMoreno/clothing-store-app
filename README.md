@@ -30,6 +30,8 @@
 - Error boundaries
 - React Memo
 - React Profiler
+- Babel
+- Webpack
 
 2. Redux
 - Store
@@ -133,6 +135,31 @@
 - HTTPS
 - Manifest.json
 - PWA compliance
+
+17. Jest
+- describe. it
+- Assertions
+- Async tests
+- Mock
+- Spies
+- Cheat Sheets: https://github.com/sapegin/jest-cheat-sheet
+
+18. Enzyme
+- mount
+- shallow
+- render
+- find
+- simulate
+- state() and props()
+
+19. Snapshot 
+- toMatchSnapshot for only visual components
+
+20. Redux-mock-store
+- configureMockStore()
+- dispatch()
+- mockStore()
+- getActions()
 
 
 
